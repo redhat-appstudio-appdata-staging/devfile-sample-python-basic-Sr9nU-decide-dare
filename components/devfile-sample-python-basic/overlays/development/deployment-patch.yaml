@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/mbasti-tenant/devfile-sample-python-basic/devfile-sample-python-basic@sha256:70baa487f8d29dc3ea26c6213839e1be2b7b1562da498055f16148278db40d2d
+      - image: quay.io/redhat-user-workloads-stage/mbasti-tenant/devfile-sample-python-basic/devfile-sample-python-basic@sha256:67cfc00f4a1f26b2a2a7de9c875cfe846beba13d6305ddc02554b50c1b0da30e
         name: my-python
         resources: {}
 status: {}
